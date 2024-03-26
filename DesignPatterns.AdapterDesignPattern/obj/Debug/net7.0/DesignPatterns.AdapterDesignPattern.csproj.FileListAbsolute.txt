@@ -1,0 +1,14 @@
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\bin\Debug\net7.0\DesignPatterns.AdapterDesignPattern.exe
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\bin\Debug\net7.0\DesignPatterns.AdapterDesignPattern.deps.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\bin\Debug\net7.0\DesignPatterns.AdapterDesignPattern.runtimeconfig.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\bin\Debug\net7.0\DesignPatterns.AdapterDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\bin\Debug\net7.0\DesignPatterns.AdapterDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\refint\DesignPatterns.AdapterDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\DesignPatterns.AdapterDesignPattern.genruntimeconfig.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.AdapterDesignPattern\obj\Debug\net7.0\ref\DesignPatterns.AdapterDesignPattern.dll

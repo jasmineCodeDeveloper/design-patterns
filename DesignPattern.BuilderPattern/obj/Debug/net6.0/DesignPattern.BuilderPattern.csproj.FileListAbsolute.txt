@@ -1,0 +1,14 @@
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\bin\Debug\net6.0\DesignPattern.BuilderPattern.exe
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\bin\Debug\net6.0\DesignPattern.BuilderPattern.deps.json
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\bin\Debug\net6.0\DesignPattern.BuilderPattern.runtimeconfig.json
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\bin\Debug\net6.0\DesignPattern.BuilderPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\bin\Debug\net6.0\DesignPattern.BuilderPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.AssemblyInfo.cs
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\refint\DesignPattern.BuilderPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\DesignPattern.BuilderPattern.genruntimeconfig.cache
+C:\Users\userd\Desktop\MyProject\DesignPattern.BuilderPattern\obj\Debug\net6.0\ref\DesignPattern.BuilderPattern.dll

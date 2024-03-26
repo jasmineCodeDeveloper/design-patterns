@@ -1,0 +1,14 @@
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\bin\Debug\net7.0\DesignPatterns.ObserverDesignPattern.exe
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\bin\Debug\net7.0\DesignPatterns.ObserverDesignPattern.deps.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\bin\Debug\net7.0\DesignPatterns.ObserverDesignPattern.runtimeconfig.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\bin\Debug\net7.0\DesignPatterns.ObserverDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\bin\Debug\net7.0\DesignPatterns.ObserverDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.AssemblyInfo.cs
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\refint\DesignPatterns.ObserverDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\DesignPatterns.ObserverDesignPattern.genruntimeconfig.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ObserverDesignPattern\obj\Debug\net7.0\ref\DesignPatterns.ObserverDesignPattern.dll

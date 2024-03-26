@@ -1,0 +1,14 @@
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\bin\Debug\net7.0\DesignPatterns.StartegyDesignPattern.exe
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\bin\Debug\net7.0\DesignPatterns.StartegyDesignPattern.deps.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\bin\Debug\net7.0\DesignPatterns.StartegyDesignPattern.runtimeconfig.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\bin\Debug\net7.0\DesignPatterns.StartegyDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\bin\Debug\net7.0\DesignPatterns.StartegyDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.AssemblyInfo.cs
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\refint\DesignPatterns.StartegyDesignPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\DesignPatterns.StartegyDesignPattern.genruntimeconfig.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.StartegyDesignPattern\obj\Debug\net7.0\ref\DesignPatterns.StartegyDesignPattern.dll

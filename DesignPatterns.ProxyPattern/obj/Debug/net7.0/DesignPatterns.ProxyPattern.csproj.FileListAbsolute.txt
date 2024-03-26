@@ -1,0 +1,14 @@
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\bin\Debug\net7.0\DesignPatterns.ProxyPattern.exe
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\bin\Debug\net7.0\DesignPatterns.ProxyPattern.deps.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\bin\Debug\net7.0\DesignPatterns.ProxyPattern.runtimeconfig.json
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\bin\Debug\net7.0\DesignPatterns.ProxyPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\bin\Debug\net7.0\DesignPatterns.ProxyPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.AssemblyInfo.cs
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\refint\DesignPatterns.ProxyPattern.dll
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.pdb
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\DesignPatterns.ProxyPattern.genruntimeconfig.cache
+C:\Users\userd\Desktop\MyProject\DesignPatterns.ProxyPattern\obj\Debug\net7.0\ref\DesignPatterns.ProxyPattern.dll
